@@ -1,7 +1,7 @@
 # 로앤컴퍼니는 ( FrontEnd || BackEnd || FullStack ) && ( Intern || Junior || Senior ) 엔지니어를 찾고 있습니다!
 
 ### 어떤 비전을 가지고 있나요?
-- 대한민국 법률시장의 대중화와 선진화를 이루고자 합니다. (위 소개영상을 꼭 봐주세요!!!)
+- 대한민국 법률시장의 대중화와 선진화를 이루고자 합니다. (<a href="https://www.youtube.com/watch?v=5br8hf1ukRQ" target="_blank">회사 소개 영상 by 무한도전 정준하</a>)
 
 ### 어떤 일을 하나요?
 - 전 국민을 돕는 온라인 법률 서비스 만들기: <a href="https://www.lawtalk.co.kr" target="_blank">로톡</a>
